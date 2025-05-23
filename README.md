@@ -1,12 +1,3 @@
----
-title: 非遗文化数字体验系统
-updated: 2025-05-22 14:11:40Z
-created: 2025-05-22 12:24:29Z
-latitude: 38.48719400
-longitude: 106.23090900
-altitude: 0.0000
----
-
 # 非遗文化数字体验系统
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
