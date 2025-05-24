@@ -75,12 +75,12 @@ class HomePage(QWidget):
     def on_heritage_recognition_clicked(self):
         """处理非遗场景识别按钮点击事件"""
         print("非遗场景识别按钮被点击")
-        self.parent().parent().show_experience_page()
+        self.parent().parent().show_heritage_recognition_page()
     
     def on_ai_dialogue_clicked(self):
-        """处理非遗AI对话按钮点击事件"""
-        print("非遗AI对话按钮被点击")
-        self.parent().parent().show_learning_page()
+        """处理非遗语音对话按钮点击事件"""
+        print("非遗语音对话按钮被点击")
+        self.parent().parent().show_ai_dialogue_page()
     
     def on_intelligent_scoring_clicked(self):
         """处理非遗智能评分按钮点击事件"""
